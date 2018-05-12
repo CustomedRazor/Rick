@@ -1,0 +1,9 @@
+{
+  "token"  : "YOUR CLIENT ID",
+  "fortnite_token" : "this is not necessary",
+  "id" : "ROLE ID FOR DISCORD BOT",
+  "prefix" : "YOUR PREFIX",
+  "nsfw_color": "NSFW COLOR MUST BE HEX VALUE",
+  "adminID": "YOUR ID",
+  "passes": 1 // DO NOT CHANGE
+}
